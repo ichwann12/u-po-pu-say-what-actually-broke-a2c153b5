@@ -1,0 +1,1 @@
+It was not the database, the deploy, or the traffic — it was one boolean, flipped at 3 a.m., that quietly told every request the user did not exist.
